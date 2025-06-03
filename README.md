@@ -22,3 +22,36 @@ These tools are built to enhance production efficiency, give artists intuitive c
 3. Optionally add to your Houdini path for auto-loading:
    ```bash
    HOUDINI_OTLSCAN_PATH=$HOUDINI_OTLSCAN_PATH;/path/to/this/repo/otls
+   ```
+
+---
+
+## 🧰 Usage
+
+Each HDA comes with built-in parameter labels and tooltips. Most include:
+
+- Support for both default and input-driven geometry
+- UI-optimized interfaces (folders, toggles, previews)
+- Handle bindings for direct manipulation in the viewport
+- Procedural controls (e.g. noise, multipliers, falloffs)
+
+---
+
+## 📁 Structure
+
+```
+houdiniCustomHDA/
+├── otls/                    # All HDAs stored here
+│   ├── sop_WIND_tool.hda
+│   └── ...
+├── README.md                # This file
+├── LICENSE
+```
+
+---
+
+## ✉️ Contact
+
+Created by Julien Miternique  
+Pipeline TD / Technical Artist  
+[GitHub](https://github.com/JsonDoe) • [LinkedIn](https://www.linkedin.com/) • [ArtStation](https://www.artstation.com/)
