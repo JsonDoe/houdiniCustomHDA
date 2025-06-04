@@ -21,6 +21,8 @@ This tool creates a velocity vector field using a combination of parameters and 
 
 You can adjust direction, add layered noise, and control amplitude, frequency, and roughness per layer. A falloff system is included to fade the effect near the edges of the region.
 
+[windTool Preview](preview/windTool_demo.gif)
+
 ---
 
 ## Parameters
