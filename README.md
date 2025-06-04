@@ -37,21 +37,8 @@ Each HDA comes with built-in parameter labels and tooltips. Most include:
 
 ---
 
-## 📁 Structure
-
-```
-houdiniCustomHDA/
-├── otls/                    # All HDAs stored here
-│   ├── sop_WIND_tool.hda
-│   └── ...
-├── README.md                # This file
-├── LICENSE
-```
-
----
-
 ## ✉️ Contact
 
 Created by Julien Miternique  
 Pipeline TD / Technical Artist  
-[GitHub](https://github.com/JsonDoe) • [LinkedIn](https://www.linkedin.com/) • [ArtStation](https://www.artstation.com/)
+[GitHub](https://github.com/JsonDoe) • [LinkedIn](https://www.linkedin.com/in/julien-miternique/)
