@@ -80,4 +80,3 @@ The node includes a transform handle connected to internal translation, rotation
 Julien Miternique  
 Pipeline TD & Technical Artist  
 [LinkedIn](https://www.linkedin.com/in/julien-miternique/) • [GitHub](https://github.com/JsonDoe)
-
